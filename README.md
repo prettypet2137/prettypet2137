@@ -11,7 +11,6 @@
 
 <br/><br/>
 
-<p>
-  <img align="center" width="55%" src="https://github-readme-stats.vercel.app/api?username=prettypet2137&show_icons=true&locale=en" alt="prettypet2137" />
-  <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=prettypet2137&show_icons=true&locale=en&layout=compact" alt="prettypet2137" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prettypet2137&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prettypet2137&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
