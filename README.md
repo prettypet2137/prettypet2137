@@ -1,6 +1,8 @@
 <p align="left"> </p>
 
-<h1 align="center">Hi there 👋</h1>
+<h1 align="left">Hi there 👋</h1>
+
+<p align="left"> </p>
 
 <p align="left">
 </p>
