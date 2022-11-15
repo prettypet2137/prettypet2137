@@ -1,6 +1,5 @@
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prettypet2137" alt="prettypet2137" /></a> </p>
+<p align="left"> </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
