@@ -2,7 +2,7 @@
 
 <br/><br/>
 
-<p align="left">
+<p align="left">I'm fullstack developer and database administrator.
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
