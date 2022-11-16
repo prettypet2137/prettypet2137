@@ -1,5 +1,3 @@
-.contribution-activity-listing {display: none}
-
 <h1 align="left">Hi there 👋</h1>
 
 <br/><br/>
