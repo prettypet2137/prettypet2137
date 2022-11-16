@@ -1,7 +1,7 @@
 <h1 align="left">Hi there 👋</h1>
 
 
-<p align="left">I'm fullstack developer and database administrator.
+<p align="left">I'm fullstack developer
 </p>
 
 <br/>
