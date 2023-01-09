@@ -8,6 +8,7 @@
 
 <h2 align="left">Languages and Tools:</h2>
 
+
 <p align="left">
     <table>
         <tr>
@@ -32,7 +33,7 @@
             <td><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a></td>
             <td><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/> </a></td>
             <td><a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="60" height="60"/> </a></td>
-            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="200" style="max-width: 100%;"></a></td>
+            <td><a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"  alt="csharp" width="60" height="60"></a></td>
         </tr>
     </table>
 </p>
