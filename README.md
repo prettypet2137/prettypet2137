@@ -1,9 +1,5 @@
 <h1 align="left">Hi there 👋</h1>
 
-
-<p align="left">I'm fullstack developer
-</p>
-
 <br/>
 
 <h2 align="left">Languages and Tools:</h2>
