@@ -9,7 +9,7 @@ I'm a full-stack developer with 8+ years of experience from different parts incl
 ## Contact
 <img width="16" height="16" src="https://github.com/ErickSimoes/email-icon/blob/master/gp.png" />&nbsp;&nbsp;prettypet2137@gmail.com<br />
 <img width="16" height="16" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" />&nbsp;&nbsp;@prettypet2137
-<img width="16" height="16" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS0wSvXl_QdWPBJEOUKGzPTAPwodEAvYc8lhznLoR1YQy4rc--cfRmhuGGh4VVY5dZ7GQ&usqp=CAU" />&nbsp;&nbsp;@prettypet2137
+<img width="32" height="16" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS0wSvXl_QdWPBJEOUKGzPTAPwodEAvYc8lhznLoR1YQy4rc--cfRmhuGGh4VVY5dZ7GQ&usqp=CAU" />&nbsp;&nbsp;<a href="https://join.skype.com/invite/uT0qU3M1hhwo">https://join.skype.com/invite/uT0qU3M1hhwo</a>
 
 <br />
 
