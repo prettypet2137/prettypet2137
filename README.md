@@ -5,14 +5,11 @@ I'm a full-stack developer with 8+ years of experience from different parts incl
 🤔 I'm currently working as Full Stack Developer.<br/>
 
 <br />
-<br />
-<br />
 
 ## Contact
 <img width="16" height="16" src="https://github.com/ErickSimoes/email-icon/blob/master/gp.png" />&nbsp;&nbsp;prettypet2137@gmail.com<br />
 <img width="16" height="16" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" />&nbsp;&nbsp;@prettypet2137
 
-<br />
 <br />
 
 ## Languages and Tools:
