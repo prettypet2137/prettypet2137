@@ -1,7 +1,5 @@
 ### Hi everyone 👋
 
-I'm a full-stack developer with 8+ years of experience from different parts including front-end developer and back-end developer. I am always eager to learn new technologies and stay up to date with the latest developments in the field.
-
 🤔 I'm currently working as Full Stack Developer.<br/>
 
 <br />
