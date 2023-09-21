@@ -1,6 +1,6 @@
 ### Hi everyone 👋
 
-🤔 I'm currently working as Front End Developer.<br/>
+🤔😎😍🤩😏
 
 <br />
 
